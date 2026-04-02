@@ -1,14 +1,14 @@
-## 👋 Hi, I'm Jagdish Bhavsar
+👋 Hi, I'm Jagdish Bhavsar
 
-Technical Lead – Android | 13+ yrs | IoT | AOSP & Framework-Level Customization
+**Technical Lead – Android | 13+ Years | IoT | AOSP & Framework-Level Customization**
 
-Kotlin, Java | Android Architecture | System-Level Integrations | BLE, Wi-Fi
+Kotlin, Java • Android Architecture • System-Level Integrations • BLE, Wi-Fi
 
-Working on applied AI use cases using Python and LLM-based solutions.
+Applied AI (Python, LLMs)
 
 ---
 
-## 🔧 Core Expertise
+🔧 **Core Expertise**
 
 * Android (Kotlin, Java)
 * MVVM, Clean Architecture
@@ -19,8 +19,8 @@ Working on applied AI use cases using Python and LLM-based solutions.
 
 ---
 
-## 📂 Key Projects
+📂 **Key Projects**
 
-* AOSP Device Policy Framework
+* AOSP Device Policy Service
 * Android Offline-First Catalog
 * DocGPT (AI – Python)
